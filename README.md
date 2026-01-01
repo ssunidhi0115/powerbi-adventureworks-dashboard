@@ -25,7 +25,7 @@ AdventureWorks leadership required a centralized reporting solution to:
 - Revenue and order trends over time
 - Category-wise order distribution
 - Top products by revenue and return percentage
-![Executive Dashboard](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Executive%20Dashboard.png)
+![Executive Dashboard](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Exec%20Dashboard.png)
 
 ### 2️⃣ Product Detail Analysis
 - Product-level performance vs targets
