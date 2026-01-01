@@ -80,7 +80,7 @@ Total Orders = DISTINCTCOUNT(Sales[OrderID])
 ## 📸 Dashboard Preview
 
 ### Executive Dashboard
-![Executive Dashboard] Customer Detail.png
+![Executive Dashboard](https://github.com/ssunidhi0115/powerbi-adventureworks-dashboard/blob/c6c4cfad9e6d7986ad6e32b790c4580d3dfc9f72/Customer%20Detail.png)
 
 ### Product Detail Analysis
 ![Product Detail]
