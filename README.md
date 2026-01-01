@@ -1,69 +1,73 @@
-# Power BI AdventureWorks Dashboard
+# AdventureWorks Power BI Dashboard
 
 ## 📊 Project Overview
-This project showcases an end-to-end **Power BI dashboard** built using the AdventureWorks dataset.  
-The dashboard is designed to provide **executive-level insights** into revenue, profit, orders, customer behavior, product performance, and regional trends.
+This Power BI dashboard provides end-to-end business insights for the AdventureWorks dataset, covering sales performance, product analysis, customer behavior, and regional trends.
+
+The dashboard is designed using best practices in data modeling, DAX, and visual storytelling.
 
 ---
 
 ## 🧩 Dashboard Pages
 
 ### 1️⃣ Executive Dashboard
-- Revenue, Profit, Orders, and Return Rate KPIs
+- Total Revenue, Profit, Orders, Return Rate KPIs
 - Revenue trend analysis
-- Orders by category
-- Top products by revenue and returns
-- Month-over-month performance indicators
+- Category-wise order distribution
+- Top products by revenue and return %
 
-### 2️⃣ Customer Analytics
-- Total unique customers
-- Revenue per customer
-- Customer segmentation by income and occupation
+### 2️⃣ Product Detail Analysis
+- Product-level performance vs targets
+- Dynamic price adjustment using What-If parameter
+- Orders, Revenue, Profit, and Return % trends
+- Scenario-based profitability analysis
+
+### 3️⃣ Customer Detail
+- Unique customers & revenue per customer
+- Customer segmentation by income & occupation
 - Top customers by revenue
-- Dynamic customer-level insights
-
-### 3️⃣ Product Performance
-- Product-wise order, revenue, profit, and return analysis
-- What-if price adjustment parameter
-- Monthly revenue and profit vs target
-- Return percentage trend analysis
+- Customer trend analysis over time
 
 ### 4️⃣ Geographic Analysis
-- Sales distribution across regions (North America, Europe, Pacific)
-- Country-level performance visualization using map visuals
+- Interactive map showing regional performance
+- Sales distribution across North America, Europe, and Pacific
+- Region-based filtering
 
 ---
 
-## 🛠️ Skills & Concepts Used
+## 🛠 Tools & Technologies
 - Power BI Desktop
-- Data Modeling (Star Schema)
-- DAX Measures & Calculations
-- Time Intelligence
-- What-if Parameters
+- Power Query (Data Cleaning & Transformation)
+- DAX (Measures, KPIs, Time Intelligence)
+- Star Schema Data Modeling
+- What-If Parameters
 - Interactive Slicers & Drill-through
-- Data Visualization Best Practices
 
 ---
 
-## 📁 Repository Contents
-- `.pbix` file (Power BI report)
-- Dashboard screenshots
-- README documentation
+## 📈 Key Business Insights
+- Accessories generate the highest number of orders
+- Tires & Tubes are the most ordered product type
+- Shorts have the highest return rate
+- Revenue per customer shows a consistent upward trend
+- Regional performance varies significantly by market
 
 ---
 
-## 🔗 How to Use
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Explore interactive visuals and insights
+## 📂 Dataset
+- Sample Dataset: AdventureWorks
+- Publicly available dataset used for learning and demonstration
 
 ---
 
-## 🚀 Why This Project?
-This dashboard demonstrates my ability to:
-- Translate business requirements into insights
-- Build scalable data models
-- Create executive-ready dashboards
-- Apply analytics for real-world business scenarios
+## 📸 Dashboard Preview
+![Executive Dashboard] <img width="2795" height="1675" alt="image" src="https://github.com/user-attachments/assets/c66ef68b-4788-4c51-8133-3844e5b76890" />
+![Product Detail] <img width="2808" height="1680" alt="image" src="https://github.com/user-attachments/assets/49ee303a-0432-4b29-82e4-ebdbc0f6bb05" />
+![Customer Detail] <img width="2806" height="1678" alt="image" src="https://github.com/user-attachments/assets/8cd609ae-ae88-4c24-9ebb-b6c6fdd1c8f0" />
+![Map View] <img width="2790" height="1670" alt="image" src="https://github.com/user-attachments/assets/d78f25ac-9f7c-401f-befb-2623e39ec0fe" />
 
 
+---
+
+## 👤 Author
+**Sunidhi Shukla**  
+Power BI Developer | Data Analyst  
