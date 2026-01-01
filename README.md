@@ -85,7 +85,7 @@ Total Orders = DISTINCTCOUNT(Sales[OrderID])
 ### Product Detail Analysis
 ![Product Detail]
 ### Customer Detail
-![Customer Detail][(https://github.com/user-attachments/assets/8cd609ae-ae88-4c24-9ebb-b6c6fdd1c8f0)](https://github.com/ssunidhi0115/powerbi-adventureworks-dashboard/blob/main/Customer%20Detail.png)
+![Customer Detail Dashboard](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Customer%20Detail.png)
 
 ### Geographic Analysis
 ![Geographic Analysis][(https://github.com/user-attachments/assets/d78f25ac-9f7c-401f-befb-2623e39ec0fe)](https://github.com/ssunidhi0115/powerbi-adventureworks-dashboard/blob/main/Map.png)
