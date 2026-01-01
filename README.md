@@ -25,23 +25,27 @@ AdventureWorks leadership required a centralized reporting solution to:
 - Revenue and order trends over time
 - Category-wise order distribution
 - Top products by revenue and return percentage
+- [View Executive Dashboard](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Executive%20Dashboard.png)
 
 ### 2️⃣ Product Detail Analysis
 - Product-level performance vs targets
 - Dynamic price simulation using What-If parameters
 - Orders, revenue, profit, and return trend analysis
 - Scenario-based profitability evaluation
+- [View Product Detail Dashboard](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Product%20Detail.png)
 
 ### 3️⃣ Customer Detail Analysis
 - Total and unique customer analysis
 - Revenue per customer trends
 - Customer segmentation by income and occupation
 - Top customers contributing to overall revenue
+- [View Customer Detail Dashboard](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Customer%20Detail.png)
 
 ### 4️⃣ Geographic Analysis
 - Interactive map visualization of regional performance
 - Sales distribution across North America, Europe, and Pacific
 - Region-based filtering for focused analysis
+- [View Geographic Analysis](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Map.png)
 
 ---
 
@@ -74,22 +78,3 @@ Total Profit = SUM(Sales[Profit])
 Profit Margin % = DIVIDE([Total Profit], [Total Revenue])
 
 Total Orders = DISTINCTCOUNT(Sales[OrderID])
-
----
-
-## 📸 Dashboard Preview
-
-### Executive Dashboard
-![Executive Dashboard](https://github.com/ssunidhi0115/powerbi-adventureworks-dashboard/blob/c6c4cfad9e6d7986ad6e32b790c4580d3dfc9f72/Customer%20Detail.png)
-
-### Product Detail Analysis
-![Product Detail]
-### Customer Detail
-![Customer Detail Dashboard](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Customer%20Detail.png)
-
-### Geographic Analysis
-![Geographic Analysis][(https://github.com/user-attachments/assets/d78f25ac-9f7c-401f-befb-2623e39ec0fe)](https://github.com/ssunidhi0115/powerbi-adventureworks-dashboard/blob/main/Map.png)
-
-## 👤 Author
-**Sunidhi Shukla**  
-Power BI Developer | Data Analyst  
