@@ -78,13 +78,18 @@ Total Orders = DISTINCTCOUNT(Sales[OrderID])
 ---
 
 ## 📸 Dashboard Preview
-![Executive Dashboard] <img width="2795" height="1675" alt="image" src="https://github.com/user-attachments/assets/c66ef68b-4788-4c51-8133-3844e5b76890" />
-![Product Detail] <img width="2808" height="1680" alt="image" src="https://github.com/user-attachments/assets/49ee303a-0432-4b29-82e4-ebdbc0f6bb05" />
-![Customer Detail] <img width="2806" height="1678" alt="image" src="https://github.com/user-attachments/assets/8cd609ae-ae88-4c24-9ebb-b6c6fdd1c8f0" />
-![Map View] <img width="2790" height="1670" alt="image" src="https://github.com/user-attachments/assets/d78f25ac-9f7c-401f-befb-2623e39ec0fe" />
 
+### Executive Dashboard
+![Executive Dashboard](https://github.com/user-attachments/assets/c66ef68b-4788-4c51-8133-3844e5b76890)
 
----
+### Product Detail Analysis
+![Product Detail](https://github.com/user-attachments/assets/49ee303a-0432-4b29-82e4-ebdbc0f6bb05)
+
+### Customer Detail
+![Customer Detail](https://github.com/user-attachments/assets/8cd609ae-ae88-4c24-9ebb-b6c6fdd1c8f0)
+
+### Geographic Analysis
+![Geographic Analysis](https://github.com/user-attachments/assets/d78f25ac-9f7c-401f-befb-2623e39ec0fe)
 
 ## 👤 Author
 **Sunidhi Shukla**  
