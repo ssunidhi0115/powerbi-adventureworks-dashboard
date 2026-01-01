@@ -25,27 +25,27 @@ AdventureWorks leadership required a centralized reporting solution to:
 - Revenue and order trends over time
 - Category-wise order distribution
 - Top products by revenue and return percentage
-- [View Executive Dashboard](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Executive%20Dashboard.png)
+![Executive Dashboard](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Executive%20Dashboard.png)
 
 ### 2️⃣ Product Detail Analysis
 - Product-level performance vs targets
 - Dynamic price simulation using What-If parameters
 - Orders, revenue, profit, and return trend analysis
 - Scenario-based profitability evaluation
-- [View Product Detail Dashboard](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Product%20Detail.png)
+![Product Detail Analysis](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Product%20Detail.png)
 
 ### 3️⃣ Customer Detail Analysis
 - Total and unique customer analysis
 - Revenue per customer trends
 - Customer segmentation by income and occupation
 - Top customers contributing to overall revenue
-- [View Customer Detail Dashboard](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Customer%20Detail.png)
+![Customer Detail](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Customer%20Detail.png)
 
 ### 4️⃣ Geographic Analysis
 - Interactive map visualization of regional performance
 - Sales distribution across North America, Europe, and Pacific
 - Region-based filtering for focused analysis
-- [View Geographic Analysis](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Map.png)
+![Geographic Analysis](https://raw.githubusercontent.com/ssunidhi0115/powerbi-adventureworks-dashboard/main/Map.png)
 
 ---
 
