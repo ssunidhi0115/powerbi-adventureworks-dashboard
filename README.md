@@ -1,4 +1,4 @@
-# AdventureWorks Power BI Dashboard
+# AdventureWorks Sales Power BI Dashboard
 
 ## 📊 Project Overview
 This Power BI dashboard provides end-to-end business insights for the AdventureWorks dataset, covering sales performance, product analysis, customer behavior, and regional trends.
